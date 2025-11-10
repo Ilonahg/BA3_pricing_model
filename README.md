@@ -53,7 +53,7 @@ BA3_pricing_model/
 
 2. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/<your-username>/BA3_pricing_model.git
+   git clone https://github.com/Ilonahg/BA3_pricing_model.git
    cd BA3_pricing_model
 Создайте виртуальное окружение и активируйте его:
  
@@ -200,7 +200,7 @@ flake8 src tests
 
 👨‍💻 Автор
 Илона Гогильчин
-логин GitHub]
+ 
 
 📧 Email: gogilchyn2005ilona@gmail.com
 📅 Год: 2025
