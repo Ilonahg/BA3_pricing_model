@@ -1,0 +1,44 @@
+# === Общие системные файлы ===
+.DS_Store
+Thumbs.db
+
+# === Python / venv ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Виртуальные окружения
+venv/
+env/
+.venv/
+
+# === PyCharm / VSCode ===
+.idea/
+.vscode/
+
+# === Jupyter / notebooks ===
+.ipynb_checkpoints/
+
+# === Базы данных и модели ===
+data/*.db
+models/*.pkl
+
+# === Тестовые артефакты ===
+.pytest_cache/
+.cache/
+
+# === Отчёты / временные файлы ===
+*.csv~
+*.zip
+*.tar.gz
+*.xlsx
+*.parquet
+
+# === Секреты / конфигурации (если появятся) ===
+.env
+config.yaml
